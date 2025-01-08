@@ -42,18 +42,27 @@ Subscriber comparison across channels.
 Video count and view count analysis.
 #### 5. Extract Video Data
 For each channel, extract details of individual videos such as:
-Video Title
-Views
-Likes, Dislikes
-Comments
+. Video Title
+. Views
+. Likes, Dislikes
+. Comments
 Load the video data into a Pandas DataFrame for analysis.
 #### 6. Visualize Video Data
 Create visualizations to analyze:
 Which videos have the most views.
 Like and comment distribution across videos.
 📊 Example Visualizations
-Subscribers vs Views: A bar chart comparing subscriber count with total views for selected channels.
-Video Analysis: Visualize which videos got the highest likes, comments, and views.
+1. A bar chart showing which channel  has most videos. 
+![image](https://github.com/user-attachments/assets/1aa6b507-bcd9-4cf2-836b-608614ff9f5d)
+2. A bar chart showing which channel  has most views.
+![image](https://github.com/user-attachments/assets/4be54e53-4ad1-4899-ba68-c311a13e5668)
+3. A bar chart showing which channel  has most subscribers.
+![image](https://github.com/user-attachments/assets/e4fb13ba-79d2-4cbc-bc96-8e358c2d10fb)
+4. A bar chart showing which topic  has most views.
+![image](https://github.com/user-attachments/assets/15bb5240-0099-4903-b1b9-1046681327a4)
+5. Visualize which videos got the highest likes, comments, and views every month.
+![image](https://github.com/user-attachments/assets/305ac40e-d94b-4ea7-a039-d8fe3f1bb16f)
+
 ## 🎯 Key Takeaways
 1. Learn how to access and use YouTube Data API.
 2. Build a Pandas DataFrame from YouTube data for analysis.
