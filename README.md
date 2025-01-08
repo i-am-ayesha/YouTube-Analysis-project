@@ -6,15 +6,16 @@ Using the YouTube Data API, this project will scrape data from various YouTube c
 This project is divided into two parts:
 
 Part 1 focuses on channel-level data (subscribers, total views, and video count).
+
 Part 2 extracts and analyzes video-level data (views, likes, comments, and more).
 
 ## 🌟 Features
-Access YouTube Data: Use YouTube Data API to fetch channel and video details.
-Data Analysis: Load the data into Pandas DataFrames for analysis.
-Data Visualization: Generate visualizations using Seaborn to compare channels and video metrics.
-Portfolio-Ready Project: A hands-on project for aspiring Data Analysts or anyone interested in exploring YouTube data.
+1. Access YouTube Data: Use YouTube Data API to fetch channel and video details.
+2. Data Analysis: Load the data into Pandas DataFrames for analysis.
+3. Data Visualization: Generate visualizations using Seaborn to compare channels and video metrics.
+4. Portfolio-Ready Project: A hands-on project for aspiring Data Analysts or anyone interested in exploring YouTube data.
 ## 🛠️ Tools & Libraries
-Python: The programming language used for this project.
+Python: Python is the programming language used for this project.
 YouTube Data API: API to fetch YouTube data (channels, videos, etc.).
 Pandas: For data manipulation and analysis.
 Seaborn: For generating beautiful visualizations.
